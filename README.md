@@ -1,7 +1,3 @@
-# app-dev
-My First Repository
-
-
 # BLACK BUTTERFLY 
 **Black Butterfly** is a 2017 thriller movie starring Antonio Banderas.
 
